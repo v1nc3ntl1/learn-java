@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccessModifier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccessModifier_jar</output-path>
+    <root id="archive" name="AccessModifier.jar">
+      <element id="module-output" name="AccessModifier" />
+    </root>
+  </artifact>
+</component>
